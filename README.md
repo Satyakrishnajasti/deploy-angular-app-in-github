@@ -1,6 +1,6 @@
 1.ng build --output-path docs --base-href /repository-name/
 
-example: ng build --output-path docs --base-href /deploy-angular-app-in-github/
+example: ng build --output-path docs --base-href  /deploy-angular-app-in-github/
 
 2. docs file generated
 
