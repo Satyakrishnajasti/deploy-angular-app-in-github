@@ -13,3 +13,5 @@ example: ng build --output-path docs --base-href  /deploy-angular-app-in-github/
 6 After few minutes application will be deployed.
 
 7. Enjoy............................................
+
+https://www.youtube.com/watch?v=F3HbnbT1Maw
