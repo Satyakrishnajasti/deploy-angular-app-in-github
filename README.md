@@ -10,5 +10,7 @@ changed outputPath:"docs"
   i. Select Branch
   ii. select /docs
   iii. save
+  
+  After few minutes app will be deployed
 
 4. Successfully deployed the angular application
